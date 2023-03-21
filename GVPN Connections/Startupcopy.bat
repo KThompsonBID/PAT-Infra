@@ -1,0 +1,1 @@
+xcopy "C:\Scripts\PAT-Infra-main\GVPN Connections\GVPNStartup.bat" "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
